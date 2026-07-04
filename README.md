@@ -61,9 +61,7 @@ This dashboard provides a comprehensive view of retail sales performance and ena
 
 ## 🔗 Tableau Public
 
-Add your Tableau Public dashboard link here:
-
-https://public.tableau.com/app/profile/your-profile
+https://public.tableau.com/app/profile/divya.dande
 
 ---
 
